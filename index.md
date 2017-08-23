@@ -1,3 +1,3 @@
 ## Welcome to huangxianjing的主页
 
-# [xuya](huangxianjing.github.io)
+# [xuya](https://huangxianjing.github.io)
