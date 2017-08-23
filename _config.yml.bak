@@ -1,11 +1,11 @@
 # Title of your blog; shows in the header
-name: "Darren"
+name: "hikari"
 
 # Description of your content (will only be used on Google Search)
 description: "Fluid, responsive blog theme for Jekyll"
 
 # Your name. Will show in your footer + sidebar
-author: "xianjing huang"
+author: "John Doge"
 
 url: "https://huangxianjing.github.io"
 baseurl: "/hikari-for-jekyll"
@@ -16,13 +16,13 @@ author-bio: "I'm a dog. I develop things. This is my blog so why don't you close
 # Social Accounts (mine, as placeholders)
 
 twitter: mx3m
-github: huangxianjing
-dribbble: huangxianjing
-instagram: huangxianjing
+github: m3xm
+dribbble: m3xm
+instagram: m3xm
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: huangxianjing.github.io
+ga_domain: m3xm.github.io
 ga_tracking_id: UA-47727049-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
